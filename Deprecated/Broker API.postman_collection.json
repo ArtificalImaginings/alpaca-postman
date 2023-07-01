@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "265a145f-72d0-4f11-808f-d0449a8a00b7",
-		"name": "Broker API",
+		"name": "PKZZOGAN2C7GGYZ11SPW",
 		"description": "Alpaca Broker API consists of different APIs that help you build your investment services and products depending on your needs.\n\n| Environment   | URL                                        |\n| ------------- |:------------------------------------------:|\n| Sandbox       | https://broker-api.sandbox.alpaca.markets/ |\n| Production    | https://broker-api.alpaca.markets/         |\n\nFor complete documentation on the Broker API and to obtain your keys head to https://alpaca.markets/docs/broker/introduction/. Once you have your keys, head to the environments tab to quickly get started.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
